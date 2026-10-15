@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hey, I'm Nayan Pangare 👋
 
-<!--
-**NayanPangare/NayanPangare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Machine Learning | Generative AI
 
-Here are some ideas to get you started:
+I build intelligent applications that connect AI capabilities with real-world problems. My interests include Machine Learning, Deep Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Data Science & Machine Learning**
+- NumPy, Pandas
+- Scikit-learn
+- PyTorch, TensorFlow
+
+**Generative AI**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain, LangGraph
+- AI Agents
+
+**Tools & Deployment**
+- Git & GitHub
+- FastAPI
+- Docker
+- Jupyter Notebook
+
+## 🚀 Featured Projects
+
+- **Retail Customer Analysis** — Exploring customer behavior and business insights using Python, Pandas, and Matplotlib.
+- **SQL Assignments** — Practicing SQL queries, data retrieval, joins, aggregations, and data analysis.
+
+## 🎯 Areas of Interest
+
+- Building LLM-powered applications
+- Designing effective RAG pipelines
+- Developing AI agents and automated workflows
+- Solving data-driven problems with Machine Learning
+
+## 📊 What Drives Me
+
+I enjoy exploring new technologies, experimenting with ideas, and turning concepts into practical solutions. I'm always looking for better ways to build useful, reliable, and maintainable AI applications.
+
+---
+
+*Turning ideas into intelligent solutions, one project at a time.*
