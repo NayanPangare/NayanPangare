@@ -30,7 +30,6 @@ I build intelligent applications that connect AI capabilities with real-world pr
 ## 🚀 Featured Projects
 
 - **Retail Customer Analysis** — Exploring customer behavior and business insights using Python, Pandas, and Matplotlib.
-- **SQL Assignments** — Practicing SQL queries, data retrieval, joins, aggregations, and data analysis.
 
 ## 🎯 Areas of Interest
 
@@ -39,10 +38,4 @@ I build intelligent applications that connect AI capabilities with real-world pr
 - Developing AI agents and automated workflows
 - Solving data-driven problems with Machine Learning
 
-## 📊 What Drives Me
 
-I enjoy exploring new technologies, experimenting with ideas, and turning concepts into practical solutions. I'm always looking for better ways to build useful, reliable, and maintainable AI applications.
-
----
-
-*Turning ideas into intelligent solutions, one project at a time.*
